@@ -1,0 +1,24 @@
+# Multi_agent_system
+  - agents
+          classifier_agent.py
+          json_agent.py
+          email_agent.py
+          pdf_agent.py
+
+  - memory
+          shared_memory.py
+          shared_memory.db
+
+  - inputs
+         sample_invoice.json
+         sample_email.txt
+         sample_pdf.pdf 
+
+
+  - main.py (The main application)
+
+  - requirements.txt
+
+  - README.md
+
+  - test.py(to check database values)

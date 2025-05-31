@@ -1,0 +1,15 @@
+
+
+
+From: john.doe@acme.com
+Subject: URGENT – Request for Quote
+
+Dear Sales,
+
+We urgently need pricing and availability for the following:
+- 500 units of Model X
+
+Please respond as soon as possible.
+
+Thanks,
+John Doe
