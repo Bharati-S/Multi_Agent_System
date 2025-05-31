@@ -1,0 +1,20 @@
+{
+  "invoice_id": "INV123",
+  "sender": "Acme Corp",
+  "receiver": "Flowbit AI",
+  "amount": 999.99,
+  "due_date": "2025-06-10",
+  "items": [
+    {
+      "description": "Web design services",
+      "quantity": 1,
+      "unit_price": 500.00
+    },
+    {
+      "description": "Hosting (12 months)",
+      "quantity": 1,
+      "unit_price": 499.99
+    }
+  ],
+  "status": "unpaid"
+}
